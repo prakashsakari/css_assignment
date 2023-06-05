@@ -1,0 +1,19 @@
+.card-hero-section-6 {
+    display: flex;
+}
+
+.card-hero-section-6:hover{
+    cursor: pointer;
+    /* background-color: #eff6ff;
+    background-blend-mode: multiply; */
+    filter: grayscale(0.5);
+}
+
+.card-hero-image-6{
+    width: 110px;
+    height: 110px;
+    background-image: url("../images/hero-image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 0.35rem 0.35rem 0 0;
+}

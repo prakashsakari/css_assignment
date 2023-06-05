@@ -1,0 +1,23 @@
+
+.card-hero-section:hover,
+.card-hero-image-3:hover{
+    cursor: pointer;
+    /* background-color: #eff6ff;
+    background-blend-mode: multiply; */
+    filter: grayscale(0.5);
+}
+
+
+.card-hero-image-3{
+    height: 200px;
+    background-image: url("../images/hero-image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.tag-line-3 {
+    padding: 1rem 1rem 0.5rem 1rem;
+    font-size: 0.875rem;
+    color: #52525b;
+    font-weight: 400;
+}
